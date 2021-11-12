@@ -1,5 +1,16 @@
 body {
 
     background-color: LightCyan;
-    color: aquamarine;
+    color: DarkCyan;
+}
+
+h1{
+    border-left: solid 0.5em cadetblue;
+    border-bottom: solid 2px cadetblue;
+    padding-left: 0.5em;
+}
+
+.lie{
+    background-color: crimson;
+    color: MistyRose;
 }
